@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agathasenpai
+- 👋 Hi, I’m Agatha
 
 - 👀 I'm interested in technology and program software
 
