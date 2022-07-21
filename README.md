@@ -4,8 +4,7 @@
 
 - 🌱 I live in Indonesia
 
-![20220425_113247_0000](https://user-images.githubusercontent.com/88697142/165021862-158e1e10-e3d1-42a6-8a1f-b7afe78f831e.png)
-
+https://github-readme-stats.vercel.app/api?username=agathasenpai&layout=compact&show_icons=true&include_all_commits=true
 
 
 
